@@ -1,2 +1,2 @@
 # freeSeeker
-To seek various free resources for lanlan(my wife).
+To seek various free resources in internet for lanlan(my wife).
